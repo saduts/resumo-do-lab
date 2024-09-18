@@ -1,2 +1,3 @@
 # resumo-do-lab
-Resumo dos labs aprendidos no curso Azure da DIO
+
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO
