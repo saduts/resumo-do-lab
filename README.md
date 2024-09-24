@@ -10,4 +10,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
     Tipos de serviços IaaS, PasS, SaaS.
     Configurando uma instância de Banco de Dados na Azure
 
+-> Construindo Arquiteturas no Azure 24/09/2024 
+    Live sobre Azure AI Studio.
+
     
