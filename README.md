@@ -12,5 +12,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 
 -> Construindo Arquiteturas no Azure 24/09/2024 
     Live sobre Azure AI Studio.
-
+    
+-> Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure - 28/09/2024
+    
     
