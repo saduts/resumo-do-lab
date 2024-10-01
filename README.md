@@ -16,5 +16,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 -> Configurando Recursos e Dimensionamentos em Máquinas Virtuais na Azure - 28/09/2024
 
 -> Dominando o Armazenamento na Azure - 28/09/2024
-    
-    
+
+-> Entendendo sobre Segurança e Identidade na Azure - 01/10/2024
