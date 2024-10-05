@@ -18,3 +18,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 -> Dominando o Armazenamento na Azure - 28/09/2024
 
 -> Entendendo sobre Segurança e Identidade na Azure - 01/10/2024
+
+-> Otimizando Custos no Azure - 05/10/2024
