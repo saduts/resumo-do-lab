@@ -20,3 +20,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 -> Entendendo sobre Segurança e Identidade na Azure - 01/10/2024
 
 -> Otimizando Custos no Azure - 05/10/2024
+
+-> Gerenciando Politicas em Acessos Azure - 07/10/2024
