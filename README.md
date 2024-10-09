@@ -22,3 +22,5 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 -> Otimizando Custos no Azure - 05/10/2024
 
 -> Gerenciando Politicas em Acessos Azure - 07/10/2024
+
+-> Ferramentas de Implantação na Azure - 09/10/2024
