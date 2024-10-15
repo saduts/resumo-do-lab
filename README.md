@@ -24,3 +24,6 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 -> Gerenciando Politicas em Acessos Azure - 07/10/2024
 
 -> Ferramentas de Implantação na Azure - 09/10/2024
+
+-> Monitoramento Inteligente com o Azure - 15/10/2024
+-> Monitoramento Inteligente com o Azure
